@@ -75,7 +75,7 @@
 
 ---
 
-### **Screenshots**
+### **Screenshot**
 ![image](https://github.com/user-attachments/assets/0a7825ab-9816-4212-927a-ee9d96780772)
 
 ---
