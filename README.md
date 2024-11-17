@@ -5,7 +5,7 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/d73d3fc7-909e-4425-8aed-812e8657156c)
+![Screenshot 2024-11-17 235938](https://github.com/user-attachments/assets/07e04338-6c05-400f-98cd-8ba3fa16580b)
 
 ### **Table of Contents**
 1. [Features](#features)  
